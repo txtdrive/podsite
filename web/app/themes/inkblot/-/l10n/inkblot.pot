@@ -1,0 +1,1060 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inkblot 4.5.2\n"
+"POT-Creation-Date: 2015-06-01 18:49-0500\n"
+"PO-Revision-Date: 2015-06-01 18:49-0500\n"
+"Last-Translator: \n"
+"Language-Team: Michael Sisk <help@mgsisk.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ../../../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_n_noop:1,2;_x:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_ex:1,2c;_esc_attr__;_esc_attr_e;_esc_attr_x:1,2c;"
+"_esc_html__;_esc_html_e;_esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: inkblot\n"
+
+#: inkblot/-/php/admin.php:23
+msgid "Template Options"
+msgstr ""
+
+#: inkblot/-/php/admin.php:82 inkblot/-/php/admin.php:279
+#: inkblot/-/php/admin.php:347 inkblot/-/php/admin.php:422
+#: inkblot/-/php/admin.php:515
+msgid "Site"
+msgstr ""
+
+#: inkblot/-/php/admin.php:91
+msgid "Scheme"
+msgstr ""
+
+#: inkblot/-/php/admin.php:92
+msgid ""
+"Schemes are collections of predefined theme options, including layout, "
+"fonts, and colors."
+msgstr ""
+
+#: inkblot/-/php/admin.php:109 inkblot/-/php/admin.php:932
+msgid "Layout"
+msgstr ""
+
+#: inkblot/-/php/admin.php:121
+msgid "No sidebars"
+msgstr ""
+
+#: inkblot/-/php/admin.php:122
+msgid "Content on left, 1 sidebar"
+msgstr ""
+
+#: inkblot/-/php/admin.php:123
+msgid "Content on right, 1 sidebar"
+msgstr ""
+
+#: inkblot/-/php/admin.php:124
+msgid "Content on left, 2 sidebars"
+msgstr ""
+
+#: inkblot/-/php/admin.php:125
+msgid "Content on right, 2 sidebars"
+msgstr ""
+
+#: inkblot/-/php/admin.php:126
+msgid "Content centered, 2 sidebars"
+msgstr ""
+
+#: inkblot/-/php/admin.php:127
+msgid "Content on far left, 3 sidebars"
+msgstr ""
+
+#: inkblot/-/php/admin.php:128
+msgid "Content on left, 3 sidebars"
+msgstr ""
+
+#: inkblot/-/php/admin.php:129
+msgid "Content on right, 3 sidebars"
+msgstr ""
+
+#: inkblot/-/php/admin.php:130
+msgid "Content on far right, 3 sidebars"
+msgstr ""
+
+#: inkblot/-/php/admin.php:139
+msgid "Primary Sidebar Width"
+msgstr ""
+
+#: inkblot/-/php/admin.php:140
+msgid "The percentage width of the primary sidebar."
+msgstr ""
+
+#: inkblot/-/php/admin.php:155
+msgid "Secondary Sidebar Width"
+msgstr ""
+
+#: inkblot/-/php/admin.php:156
+msgid "The percentage width of the secondary sidebar."
+msgstr ""
+
+#: inkblot/-/php/admin.php:171
+msgid "Tertiary Sidebar Width"
+msgstr ""
+
+#: inkblot/-/php/admin.php:172
+msgid "The percentage width of the tertiary sidebar."
+msgstr ""
+
+#: inkblot/-/php/admin.php:187
+msgid "Minimum Width"
+msgstr ""
+
+#: inkblot/-/php/admin.php:188
+msgid "The minimum pixel width the page will resize to."
+msgstr ""
+
+#: inkblot/-/php/admin.php:202
+msgid "Maximum Width"
+msgstr ""
+
+#: inkblot/-/php/admin.php:203
+msgid "The maximum pixel width the page will resize to."
+msgstr ""
+
+#: inkblot/-/php/admin.php:217
+msgid "Content Width"
+msgstr ""
+
+#: inkblot/-/php/admin.php:218
+msgid ""
+"Defines the maximum pixel width for post content. <a href=\"//codex."
+"wordpress.org/Content_Width\">Learn more at the WordPress Codex.</a>"
+msgstr ""
+
+#: inkblot/-/php/admin.php:233
+msgid ""
+"Responsive features will only be used when your page is less than or equal "
+"to this pixel width."
+msgstr ""
+
+#: inkblot/-/php/admin.php:234
+msgid "Responsive Width"
+msgstr ""
+
+#: inkblot/-/php/admin.php:248
+msgid "Fonts"
+msgstr ""
+
+#: inkblot/-/php/admin.php:257
+msgid "Size"
+msgstr ""
+
+#: inkblot/-/php/admin.php:268
+msgid "(inherit)"
+msgstr ""
+
+#: inkblot/-/php/admin.php:290
+msgid "Header"
+msgstr ""
+
+#: inkblot/-/php/admin.php:301 inkblot/-/php/admin.php:370
+#: inkblot/-/php/admin.php:463 inkblot/-/php/admin.php:561
+#: inkblot/-/php/admin.php:657 inkblot/-/php/tags.php:111
+#: inkblot/-/php/tags.php:272 inkblot/content-page.php:39
+#: inkblot/content.php:62 inkblot/image.php:62 inkblot/webcomic/content.php:88
+msgid "Page"
+msgstr ""
+
+#: inkblot/-/php/admin.php:312
+msgid "Titles"
+msgstr ""
+
+#: inkblot/-/php/admin.php:323 inkblot/-/php/admin.php:393
+#: inkblot/-/php/admin.php:486 inkblot/-/php/admin.php:607
+#: inkblot/-/php/admin.php:714
+msgid "Trim"
+msgstr ""
+
+#: inkblot/-/php/admin.php:333
+msgid "Colors"
+msgstr ""
+
+#: inkblot/-/php/admin.php:338
+msgid "Backgrounds"
+msgstr ""
+
+#: inkblot/-/php/admin.php:413
+msgid "Text"
+msgstr ""
+
+#: inkblot/-/php/admin.php:506
+msgid "Links"
+msgstr ""
+
+#: inkblot/-/php/admin.php:538
+msgid "Site Hover"
+msgstr ""
+
+#: inkblot/-/php/admin.php:584
+msgid "Page Hover"
+msgstr ""
+
+#: inkblot/-/php/admin.php:630
+msgid "Trim Hover"
+msgstr ""
+
+#: inkblot/-/php/admin.php:652
+msgid "Background Images"
+msgstr ""
+
+#: inkblot/-/php/admin.php:666 inkblot/-/php/admin.php:723
+msgid "Background Image"
+msgstr ""
+
+#: inkblot/-/php/admin.php:676 inkblot/-/php/admin.php:733
+msgid "Background Repeat"
+msgstr ""
+
+#: inkblot/-/php/admin.php:679 inkblot/-/php/admin.php:736
+msgid "No Repeat"
+msgstr ""
+
+#: inkblot/-/php/admin.php:680 inkblot/-/php/admin.php:737
+msgid "Tile"
+msgstr ""
+
+#: inkblot/-/php/admin.php:681 inkblot/-/php/admin.php:738
+msgid "Tile Horizontally"
+msgstr ""
+
+#: inkblot/-/php/admin.php:682 inkblot/-/php/admin.php:739
+msgid "Tile Vertically"
+msgstr ""
+
+#: inkblot/-/php/admin.php:691 inkblot/-/php/admin.php:748
+msgid "Background Position"
+msgstr ""
+
+#: inkblot/-/php/admin.php:694 inkblot/-/php/admin.php:751
+msgid "Left"
+msgstr ""
+
+#: inkblot/-/php/admin.php:695 inkblot/-/php/admin.php:752
+msgid "Center"
+msgstr ""
+
+#: inkblot/-/php/admin.php:696 inkblot/-/php/admin.php:753
+msgid "Right"
+msgstr ""
+
+#: inkblot/-/php/admin.php:705 inkblot/-/php/admin.php:762
+msgid "Background Attachment"
+msgstr ""
+
+#: inkblot/-/php/admin.php:708 inkblot/-/php/admin.php:765
+msgid "Scroll"
+msgstr ""
+
+#: inkblot/-/php/admin.php:709 inkblot/-/php/admin.php:766
+msgid "Fixed"
+msgstr ""
+
+#: inkblot/-/php/admin.php:775
+msgid "Use featured image for single posts"
+msgstr ""
+
+#: inkblot/-/php/admin.php:782
+msgid "Width"
+msgstr ""
+
+#: inkblot/-/php/admin.php:783
+msgid ""
+"The pixel width of your header image. Changes will not affect previously "
+"uploaded header images."
+msgstr ""
+
+#: inkblot/-/php/admin.php:794
+msgid "Height"
+msgstr ""
+
+#: inkblot/-/php/admin.php:795
+msgid ""
+"The pixel height of your header image. Changes will not affect previously "
+"header images."
+msgstr ""
+
+#: inkblot/-/php/admin.php:808
+msgid "Use paged navigation for posts"
+msgstr ""
+
+#: inkblot/-/php/admin.php:816
+msgid "Use paged navigation for comments"
+msgstr ""
+
+#: inkblot/-/php/admin.php:831
+msgid "Display widgets as separate columns"
+msgstr ""
+
+#: inkblot/-/php/admin.php:839
+msgid "Miscellanea"
+msgstr ""
+
+#: inkblot/-/php/admin.php:847
+msgid "Site Icon"
+msgstr ""
+
+#: inkblot/-/php/admin.php:850
+msgid ""
+"The site icon may be displayed by web browsers and mobile devices in various "
+"ways."
+msgstr ""
+
+#: inkblot/-/php/admin.php:858
+msgid "Post Thumbnail Width"
+msgstr ""
+
+#: inkblot/-/php/admin.php:859
+msgid ""
+"The pixel width of post thumbnails. Changes will not affect previously "
+"uploaded thumbnails."
+msgstr ""
+
+#: inkblot/-/php/admin.php:872
+msgid "Post Thumbnail Height"
+msgstr ""
+
+#: inkblot/-/php/admin.php:873
+msgid ""
+"The pixel height of post thumbnails. Changes will not affect previously "
+"uploaded thumbnails."
+msgstr ""
+
+#: inkblot/-/php/admin.php:886
+msgid "Remove theme modifications when changing themes"
+msgstr ""
+
+#: inkblot/-/php/admin.php:893
+msgid "Stylesheet"
+msgstr ""
+
+#: inkblot/-/php/admin.php:903
+msgid "Enter CSS rules below to further customize your theme."
+msgstr ""
+
+#: inkblot/-/php/admin.php:910
+msgid "none"
+msgstr ""
+
+#: inkblot/-/php/admin.php:911
+msgid "any collection"
+msgstr ""
+
+#: inkblot/-/php/admin.php:917
+msgid "full"
+msgstr ""
+
+#: inkblot/-/php/admin.php:924
+msgid "Webcomic"
+msgstr ""
+
+#: inkblot/-/php/admin.php:925
+msgid "These settings affect features related to the Webcomic plugin."
+msgstr ""
+
+#: inkblot/-/php/admin.php:940
+msgid "Place webcomic in the main column"
+msgstr ""
+
+#: inkblot/-/php/admin.php:949
+msgid "Resize webcomic to fit available space"
+msgstr ""
+
+#: inkblot/-/php/admin.php:956
+msgid "Navigation"
+msgstr ""
+
+#: inkblot/-/php/admin.php:964
+msgid "Webcomic attachments link to"
+msgstr ""
+
+#: inkblot/-/php/admin.php:967 inkblot/-/php/admin.php:1032
+msgid "Nothing"
+msgstr ""
+
+#: inkblot/-/php/admin.php:968
+msgid "Next webcomic"
+msgstr ""
+
+#: inkblot/-/php/admin.php:969
+msgid "Previous webcomic"
+msgstr ""
+
+#: inkblot/-/php/admin.php:978
+msgid "Show navigation above the webcomic"
+msgstr ""
+
+#: inkblot/-/php/admin.php:987
+msgid "Show navigation below the webcomic"
+msgstr ""
+
+#: inkblot/-/php/admin.php:994
+msgid "Archives"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1002
+msgid "Posts are displayed in"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1005
+msgid "Chronological order"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1006
+msgid "Reverse chronlogical order"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1013
+msgid "Show previews of this size "
+msgstr ""
+
+#: inkblot/-/php/admin.php:1021
+msgid "Front Page"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1029
+msgid "Front page displays"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1033
+msgid "Your latest webcomic"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1034
+msgid "Your first webcomic"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1041
+msgid "From this collection"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1049
+msgid "Include comments on the front page"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1056
+msgid "Include transcripts on the front page"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1148
+msgid "Inkblot Page Background"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1152
+msgid "Inkblot Trim Background"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1156
+msgid "Inkblot Site Icon"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1188
+msgid ""
+"Select one of the following templates from the Page Attributes meta box to "
+"modify template-specific options:"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1206
+msgid "Contributors"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1209
+msgid "Avatar size"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1214
+msgid "Full Width"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1217
+msgid "Show sidebars below the page content"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1222
+msgid "Webcomic Archive"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1247
+#, php-format
+msgid ""
+"<label for=\"inkblot_webcomic_archive_group\">Show %1$s</label> <label for="
+"\"inkblot_webcomic_archive_term_image\">links as %2$s</label> <label for="
+"\"inkblot_webcomic_archive_term_target\">pointing to %3$s</label> <label for="
+"\"inkblot_webcomic_archive_term_order\">starting with the %4$s term</label>"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1254
+msgid "collection"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1256
+msgid "storyline"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1258
+msgid "character"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1265 inkblot/-/php/admin.php:1308
+msgid "text"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1276
+msgid "an archive page"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1278
+msgid "the first webcomic"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1280
+msgid "the last webcomic"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1282
+msgid "a random webcomic"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1290 inkblot/-/php/admin.php:1317
+#: inkblot/-/php/admin.php:1348 inkblot/-/php/admin.php:1386
+msgid "first"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1292 inkblot/-/php/admin.php:1319
+#: inkblot/-/php/admin.php:1350 inkblot/-/php/admin.php:1388
+msgid "latest"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1302
+#, php-format
+msgid ""
+"<label for=\"inkblot_webcomic_archive_image\">Show webcomic links as %1$s</"
+"label> <label for=\"inkblot_webcomic_archive_order\">starting with the %2$s "
+"webcomic</label>"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1328 inkblot/-/php/admin.php:1367
+#: inkblot/-/php/admin.php:1397
+#, php-format
+msgid ""
+"It looks like %1$s is not installed or activated. This template will not "
+"affect the appearance of this page."
+msgstr ""
+
+#: inkblot/-/php/admin.php:1334
+msgid "Webcomic Homepage"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1341
+#, php-format
+msgid ""
+"<label for=\"inkblot_webcomic_homepage_order\">Show the %1$s webcomic</label>"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1358
+msgid "Show transcripts"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1362
+msgid "Show comments"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1373
+msgid "Webcomic Infinite"
+msgstr ""
+
+#: inkblot/-/php/admin.php:1379
+#, php-format
+msgid ""
+"<label for=\"inkblot_webcomic_infinite_order\">Start with the %1$s webcomic</"
+"label>"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:11
+msgid "Inkblot"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:42
+msgid "Honey Pot"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:73
+msgid "Son"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:104
+msgid "Granny Smith Apple"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:135
+msgid "Quiet Cry"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:166
+msgid "Woman in Purple Dress"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:197
+msgid "Retro Package"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:228
+msgid "Mustang"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:259
+msgid "Here We Are"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:290
+msgid "Knot Just Nautical"
+msgstr ""
+
+#: inkblot/-/php/schemes.php:321
+msgid "Das Boot"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:10 inkblot/sidebar.php:17 inkblot/sidebar.php:22
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:10
+msgid ""
+"Used in both two and three-column layouts. You can change theme layout from "
+"the Appearance > Customize page."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:11 inkblot/sidebar.php:35 inkblot/sidebar.php:40
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:11
+msgid ""
+"Used in three and four-column layouts. You can change theme layout from the "
+"Appearance > Customize page."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:12 inkblot/sidebar.php:53 inkblot/sidebar.php:58
+msgid "Tertiary Sidebar"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:12
+msgid ""
+"Used in four-column layouts only. You can change theme layout from the "
+"Appearance > Customize page."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:13
+msgid "Document Header"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:13
+msgid "Located at the very top of the page, outside of the page wrapper."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:14
+msgid "Document Footer"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:14
+msgid "Located at the very bottom of the page, outside of the page wrapper."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:15
+msgid "Site Header"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:15
+msgid ""
+"Located at the top of the page, where the site title and navigation are "
+"usually displayed."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:16
+msgid "Site Footer"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:16
+msgid ""
+"Located at the bottom of the page, where copyright information is usually "
+"displayed."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:17
+msgid "Page Header"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:17
+msgid "Located near the top of the page, just inside the page wrapper."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:18
+msgid "Page Footer"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:18
+msgid "Located near the bottom of the page, just inside the page wrapper."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:19
+msgid "Content Header"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:19
+msgid "Located near the top of the page, just inside the content wrapper."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:20
+msgid "Content Footer"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:20
+msgid "Located near the bottom of the page, just inside the content wrapper."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:21
+msgid "Comment Header"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:21
+msgid ""
+"Located above the comments list for a post, just inside the comments wrapper."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:22
+msgid "Comment Footer"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:22
+msgid ""
+"Located below the comments list for a post, just inside the comments wrapper."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:27
+msgid "Webcomic Header"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:27
+msgid "Located above the webcomic, just inside the webcomic wrapper."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:28
+msgid "Webcomic Footer"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:28
+msgid "Located below the webcomic, just inside the webcomic wrapper."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:29 inkblot/webcomic/display.php:16
+msgid "Webcomic Navigation Header"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:29
+msgid "Navigation displayed above the webcomic."
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:30 inkblot/webcomic/display.php:40
+msgid "Webcomic Navigation Footer"
+msgstr ""
+
+#: inkblot/-/php/sidebars.php:30
+msgid "Navigation displayed below the webcomic."
+msgstr ""
+
+#: inkblot/-/php/tags.php:109 inkblot/-/php/tags.php:114
+#: inkblot/-/php/tags.php:270
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: inkblot/-/php/tags.php:110 inkblot/-/php/tags.php:115
+#: inkblot/-/php/tags.php:271
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: inkblot/-/php/tags.php:129
+#, php-format
+msgid "%1$s published on"
+msgstr ""
+
+#: inkblot/-/php/tags.php:145
+#, php-format
+msgid "Read more posts by the author of %1$s,"
+msgstr ""
+
+#: inkblot/-/php/tags.php:163
+msgid "Return to"
+msgstr ""
+
+#: inkblot/-/php/tags.php:180
+msgid "View image at full size,"
+msgstr ""
+
+#: inkblot/-/php/tags.php:207
+#, php-format
+msgid ""
+"<a href=\"%1$s\" class=\"time\"><span class=\"screen-reader-text\">%2$s </"
+"span><time datetime=\"%3$s\">%4$s @ %5$s</time></a>"
+msgstr ""
+
+#: inkblot/-/php/tags.php:209
+#, php-format
+msgid "Comment by %s published on"
+msgstr ""
+
+#: inkblot/-/php/tags.php:220
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> comment by %s</span>"
+msgstr ""
+
+#: inkblot/-/php/tags.php:227
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inkblot/-/php/tags.php:266
+msgid "Comments navigation"
+msgstr ""
+
+#: inkblot/-/php/tags.php:438
+msgid "Webcomic Transcript Authors"
+msgstr ""
+
+#: inkblot/-/php/tags.php:440
+msgid "Webcomic Transcript Languages"
+msgstr ""
+
+#: inkblot/-/php/walker-page-dropdown.php:34
+msgid "Home"
+msgstr ""
+
+#: inkblot/archive.php:22
+msgid "Custom post type archive"
+msgstr ""
+
+#: inkblot/archive.php:23
+msgid "Archive"
+msgstr ""
+
+#: inkblot/author.php:18
+#, php-format
+msgid "<span class=\"screen-reader-text\">%s </span>%s"
+msgstr ""
+
+#: inkblot/author.php:18
+msgid "Posts authored by"
+msgstr ""
+
+#: inkblot/category.php:18
+msgid "Posts categoriezed as"
+msgstr ""
+
+#: inkblot/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: inkblot/content-none.php:24
+msgid "Publish your first post"
+msgstr ""
+
+#: inkblot/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: inkblot/content-none.php:29
+msgid ""
+"Sorry, but we can't seem to find what you're looking for. Perhaps searching "
+"will help."
+msgstr ""
+
+#: inkblot/content-page.php:26 inkblot/content.php:42 inkblot/image.php:29
+#: inkblot/webcomic/content.php:68 inkblot/webcomic/infinite.php:50
+#: inkblot/webcomic/prints.php:23
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: inkblot/content-page.php:37 inkblot/content.php:60 inkblot/image.php:60
+#: inkblot/webcomic/content.php:86
+msgid "Post pages navigation"
+msgstr ""
+
+#: inkblot/content.php:73 inkblot/webcomic/content.php:99
+msgid "Categories"
+msgstr ""
+
+#: inkblot/content.php:73 inkblot/content.php:75
+#: inkblot/webcomic/content.php:99 inkblot/webcomic/content.php:101
+#: inkblot/webcomic/content.php:103 inkblot/webcomic/content.php:105
+#: inkblot/webcomic/content.php:107
+msgid ", "
+msgstr ""
+
+#: inkblot/content.php:75 inkblot/webcomic/content.php:101
+msgid "Tags"
+msgstr ""
+
+#: inkblot/date.php:18
+msgid "Posts from"
+msgstr ""
+
+#: inkblot/footer.php:15
+#, php-format
+msgid "%1$s &bull; Powered by %2$s with %3$s"
+msgstr ""
+
+#: inkblot/functions.php:212
+msgid "Primary Menu"
+msgstr ""
+
+#: inkblot/functions.php:283 inkblot/functions.php:294
+#, php-format
+msgid "Continue reading %1$s"
+msgstr ""
+
+#: inkblot/header.php:12
+msgid "Skip to content"
+msgstr ""
+
+#: inkblot/header.php:40
+msgid "Primary Navigation"
+msgstr ""
+
+#: inkblot/image.php:35
+msgid "Image navigation"
+msgstr ""
+
+#: inkblot/search.php:16
+#, php-format
+msgid "<span class=\"screen-reader-text\">Search results for </span>%1$s"
+msgstr ""
+
+#: inkblot/searchform.php:12 inkblot/searchform.php:16
+msgid "Search"
+msgstr ""
+
+#: inkblot/sidebar.php:23
+#, php-format
+msgid ""
+"This is the primary sidebar. You can remove this message by adding widgets "
+"to it from the <a href=\"%1$s\">Customizer</a>."
+msgstr ""
+
+#: inkblot/sidebar.php:41
+#, php-format
+msgid ""
+"This is the secondary sidebar. You can remove this message by adding widgets "
+"to it from the <a href=\"%1$s\">Customizer</a>."
+msgstr ""
+
+#: inkblot/sidebar.php:59
+#, php-format
+msgid ""
+"This is the tertiary sidebar. You can remove this message by adding widgets "
+"to it from the <a href=\"%1$s\">Customizer</a>."
+msgstr ""
+
+#: inkblot/single.php:20
+msgid "Next post: "
+msgstr ""
+
+#: inkblot/single.php:21
+msgid "Previous post: "
+msgstr ""
+
+#: inkblot/tag.php:18
+msgid "Posts tagged "
+msgstr ""
+
+#: inkblot/taxonomy.php:18
+msgid "Posts with the custom taxonomy term"
+msgstr ""
+
+#: inkblot/webcomic/character.php:24
+msgid "Webcomics featuring"
+msgstr ""
+
+#: inkblot/webcomic/collection.php:24
+msgid "Webcomics from"
+msgstr ""
+
+#: inkblot/webcomic/content.php:64 inkblot/webcomic/infinite.php:44
+msgid "Purchase"
+msgstr ""
+
+#: inkblot/webcomic/content.php:103 inkblot/webcomic/content.php:107
+msgid "Webcomic Collections"
+msgstr ""
+
+#: inkblot/webcomic/content.php:105
+msgid "Webcomic Storylines"
+msgstr ""
+
+#: inkblot/webcomic/crossover.php:24
+msgid "Webcomics that crossover with"
+msgstr ""
+
+#: inkblot/webcomic/prints.php:46
+msgid "%total Original Print"
+msgstr ""
+
+#: inkblot/webcomic/prints.php:49
+msgid "%total Domestic"
+msgstr ""
+
+#: inkblot/webcomic/prints.php:51
+msgid "%total International"
+msgstr ""
+
+#: inkblot/webcomic/restricted-age.php:14
+msgid "Age Restricted Content"
+msgstr ""
+
+#: inkblot/webcomic/restricted-age.php:22
+#, php-format
+msgid "Are you at least %1$s years of age?"
+msgstr ""
+
+#: inkblot/webcomic/restricted-age.php:24
+msgid "Yes"
+msgstr ""
+
+#: inkblot/webcomic/restricted-age.php:25
+msgid "No"
+msgstr ""
+
+#: inkblot/webcomic/restricted-age.php:31
+msgid "Apologies, but you're not old enough to view this content."
+msgstr ""
+
+#: inkblot/webcomic/restricted-role.php:16
+msgid "Restricted Content"
+msgstr ""
+
+#: inkblot/webcomic/restricted-role.php:23
+#, php-format
+msgid "Please <a href=\"%1$s\">login</a> to view this content."
+msgstr ""
+
+#: inkblot/webcomic/restricted-role.php:27
+msgid "Apologies, but you don't have permission to view this content."
+msgstr ""
+
+#: inkblot/webcomic/storyline.php:24
+msgid "Webcomics that are part of"
+msgstr ""
+
+#: inkblot/webcomic/transcripts.php:24
+msgid "Transcripts"
+msgstr ""

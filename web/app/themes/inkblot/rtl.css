@@ -1,0 +1,212 @@
+/** 
+ * This stylesheet is used in addition to the `style.css` file for
+ * right-to-left languages.
+ */
+@font-face {
+  font-family: 'awesome';
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot");
+  src: url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?#iefix") format("embedded-opentype"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff") format("woff"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.ttf") format("truetype"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.svg#fontawesomeregular") format("svg"); }
+html .rtl {
+  direction: rtl;
+  unicode-bidi: embed; }
+
+body {
+  direction: rtl;
+  unicode-bidi: embed; }
+
+.banner nav:before {
+  left: 1rem;
+  right: auto; }
+.banner ul ul ul {
+  left: auto;
+  right: 100%; }
+.banner li {
+  float: right; }
+.banner .page_item_has_children > a:after {
+  content: '';
+  margin: 0; }
+.banner .page_item_has_children > a:before {
+  font: 100%/1 awesome;
+  content: '\f13a';
+  margin: 0 .5rem 0 0; }
+.banner .page_item_has_children .page_item_has_children > a:after {
+  content: '';
+  margin: 0; }
+.banner .page_item_has_children .page_item_has_children > a:before {
+  font: 100%/1 awesome;
+  content: '\f137';
+  margin: 0 .5rem 0 0; }
+
+.widgets aside {
+  float: right; }
+
+.post-image {
+  float: left;
+  margin: 0 1rem 1rem 0; }
+.post-header h2 a:before {
+  padding: 0; }
+  .format-audio .post-header h2 a:before, .format-image .post-header h2 a:before, .format-gallery .post-header h2 a:before, .format-video .post-header h2 a:before, .format-aside .post-header h2 a:before, .format-status .post-header h2 a:before, .format-link .post-header h2 a:before, .format-quote .post-header h2 a:before, .format-chat .post-header h2 a:before, .sticky .post-header h2 a:before {
+    content: ''; }
+.post-header h2 a:after {
+  font: 100%/1 awesome;
+  padding: 0 0 0 .5rem;
+  vertical-align: baseline; }
+  .format-audio .post-header h2 a:after {
+    content: '\f025'; }
+  .format-image .post-header h2 a:after, .format-gallery .post-header h2 a:after {
+    content: '\f03e'; }
+  .format-video .post-header h2 a:after {
+    content: '\f03d'; }
+  .format-aside .post-header h2 a:after {
+    content: '\f036'; }
+  .format-status .post-header h2 a:after {
+    content: '\f141'; }
+  .format-link .post-header h2 a:after {
+    content: '\f08e'; }
+  .format-quote .post-header h2 a:after {
+    content: '\f10d'; }
+  .format-chat .post-header h2 a:after {
+    content: '\f0e6'; }
+  .sticky .post-header h2 a:after {
+    content: '\f192'; }
+.post-details:before, .post-details:after {
+  content: ' ';
+  display: table; }
+.post-details:after {
+  clear: both; }
+.post-details a {
+  float: right; }
+  .post-details a:before {
+    padding: 0; }
+  .post-details a:first-child:before, .post-details a[rel="author"]:before, .post-details a[rel="bookmark"]:before, .post-details a[rel="gallery"]:before, .post-details a[href*="#comments"]:before, .post-details a[href*="#respond"]:before, .post-details a[href*="#disqus"]:before, .post-details a.image:before, .post-details a.post-edit-link:before, .post-details a[href$="prints"]:before, .post-details a[href*="?offset="]:before {
+    content: ''; }
+  .post-details a:after {
+    font: 100%/1 awesome;
+    padding: 0 1rem 0 .3rem; }
+  .post-details a:first-child:after {
+    padding: 0 0 0 .3rem; }
+  .post-details a[rel="author"]:after {
+    content: '\f007'; }
+  .post-details a[rel="bookmark"]:after {
+    content: '\f133'; }
+  .post-details a[rel="gallery"]:after {
+    content: '\f00a'; }
+  .post-details a[href*="#comments"]:after, .post-details a[href*="#respond"]:after, .post-details a[href*="#disqus"]:after {
+    content: '\f086'; }
+  .post-details a.image:after {
+    content: '\f03e'; }
+  .post-details a.post-edit-link:after {
+    content: '\f044'; }
+  .post-details a[href$="prints"]:after {
+    content: '\f0d6'; }
+  .post-details a[href*="?offset="]:after {
+    content: '\f02e'; }
+.post-footer span:before, .post-footer span:first-child:before {
+  padding: 0; }
+.post-footer span:after {
+  padding: 0 1rem 0 .5rem; }
+.post-footer span:last-child:after {
+  padding: 0 0 0 .3rem; }
+.post-footer .post-categories:before, .post-footer .post-tags:before {
+  content: ''; }
+.post-footer .post-categories:after {
+  content: '\f07c'; }
+.post-footer .post-tags:after {
+  content: '\f02b'; }
+.post-footer .webcomic-collections:before, .post-footer .webcomic-storylines:before, .post-footer .webcomic-characters:before {
+  content: ''; }
+.post-footer .webcomic-collections:after {
+  content: '\f1c5'; }
+.post-footer .webcomic-storylines:after {
+  content: '\f02d'; }
+.post-footer .webcomic-characters:after {
+  content: '\f0c0'; }
+
+.more-link:before {
+  content: '\f137'; }
+
+nav.posts a:last-child, nav.comments-paged a:last-child {
+  float: left;
+  margin: 0 1rem 0 0; }
+nav.posts a:first-child, nav.comments-paged a:first-child {
+  float: right;
+  margin: 0 0 0 1rem; }
+
+.search .page-header h1:before, .archive .page-header h1:before, .archive.author .page-header h1:before, .archive.category .page-header h1:before, .archive.date .page-header h1:before, .archive.tag .page-header h1:before, .archive.taxonomy .page-header h1:before, .archive.post-type-archive-webcomic .page-header h1:before, .archive.tax-webcomic_storyline .page-header h1:before, .archive.tax-webcomic_character .page-header h1:before {
+  content: '';
+  padding: 0; }
+.search .page-header h1:after, .archive .page-header h1:after {
+  font: 100%/1 awesome;
+  content: '\f187';
+  padding: 0 0 0 .5rem; }
+.search .page-header h1:after {
+  content: '\f002'; }
+.archive.author .page-header h1:after {
+  content: '\f007'; }
+.archive.category .page-header h1:after {
+  content: '\f07c'; }
+.archive.date .page-header h1:after {
+  content: '\f133'; }
+.archive.tag .page-header h1:after, .archive.taxonomy .page-header h1:after {
+  content: '\f02b'; }
+.archive.post-type-archive-webcomic .page-header h1:after {
+  content: '\f1c5'; }
+.archive.tax-webcomic_storyline .page-header h1:after {
+  content: '\f02d'; }
+.archive.tax-webcomic_character .page-header h1:after {
+  content: '\f0c0'; }
+.page-image {
+  float: right;
+  margin: 0 0 1rem 1rem; }
+
+.contributor-image {
+  float: right;
+  margin: 0 0 1rem 1rem; }
+
+.comment-reply-link:before {
+  content: ''; }
+.comment-reply-link:after {
+  content: '\f112'; }
+.comment-edit-link:before {
+  content: ''; }
+.comment-edit-link:after {
+  content: '\f044'; }
+.comment-reply-title a:before {
+  content: '';
+  padding: 0; }
+.comment-reply-title a:after {
+  font: 100%/1 awesome;
+  content: '\f057';
+  padding: 0 0 0 .3rem; }
+.comment-footer:before, .comment-footer:after {
+  content: ' ';
+  display: table; }
+.comment-footer:after {
+  clear: both; }
+.comment-footer img {
+  float: right;
+  margin: 0 0 0 1rem; }
+.comment-footer a {
+  float: right;
+  vertical-align: middle; }
+  .comment-footer a:before {
+    padding: 0; }
+  .comment-footer a:after {
+    font: 100%/1 awesome;
+    padding: 0 1rem 0 .3rem; }
+.comment-footer .time:before {
+  content: ''; }
+.comment-footer .time:after {
+  content: '\f133'; }
+.comment .comment, .pingback .comment,
+.trackback .comment, .comment .pingback, .pingback .pingback,
+.trackback .pingback,
+.comment .trackback,
+.pingback .trackback,
+.trackback .trackback {
+  border: 0;
+  border-right: thin solid #767676; }
+
+/*# sourceMappingURL=rtl.css.map */
