@@ -645,7 +645,6 @@ body > a[href="#content"] {
     width: auto; }
   body > a[href="#content"]:focus, body > a[href="#content"]:hover {
     display: block;
-    padding: 1rem;
     text-align: center; }
 
 .document-header,
