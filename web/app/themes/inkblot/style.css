@@ -645,6 +645,7 @@ body > a[href="#content"] {
     width: auto; }
   body > a[href="#content"]:focus, body > a[href="#content"]:hover {
     display: block;
+    padding: 1rem;
     text-align: center; }
 
 .document-header,
@@ -654,8 +655,10 @@ body > a[href="#content"] {
 .wrapper {
   background: #fff;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
-  margin:auto;
-  max-width: 800px; }
+  margin: auto;
+  max-width: 800px;
+  padding: 1px;
+  position: relative; }
   .wrapper a {
     color: #767676; }
     .wrapper a:focus, .wrapper a:hover {
