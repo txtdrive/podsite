@@ -654,9 +654,8 @@ body > a[href="#content"] {
 .wrapper {
   background: #fff;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
-  margin:0 auto;
-  max-width: 800px;
-  position: relative; }
+  margin:auto;
+  max-width: 800px; }
   .wrapper a {
     color: #767676; }
     .wrapper a:focus, .wrapper a:hover {
