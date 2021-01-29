@@ -655,7 +655,7 @@ body > a[href="#content"] {
   background: #fff;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
   margin:0 auto;
-  min-width: 800px;
+  max-width: 800px;
   position: relative; }
   .wrapper a {
     color: #767676; }
