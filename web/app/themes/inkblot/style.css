@@ -654,8 +654,7 @@ body > a[href="#content"] {
 .wrapper {
   background: #fff;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
-  margin: auto;
-  padding: 1px;
+  margin:0 auto;
   max-width: 800px;
   position: relative; }
   .wrapper a {
