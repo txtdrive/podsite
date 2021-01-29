@@ -43,7 +43,7 @@ html {
  * Remove default margin.
  */
 body {
-  margin: 0; }
+  margin:0px; }
 
 /* HTML5 display definitions
    ========================================================================== */
@@ -642,7 +642,7 @@ body > a[href="#content"] {
     margin: 0;
     overflow: visible;
     position: static;
-    max-width: auto; }
+    max-width: 800px; }
   body > a[href="#content"]:focus, body > a[href="#content"]:hover {
     display: block;
     text-align: center; }
